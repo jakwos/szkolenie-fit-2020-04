@@ -2,3 +2,4 @@
 webminar z sage z AstroMatt
 
 witam reszte swiata :D
+na szkoleniu z git
